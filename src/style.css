@@ -1,0 +1,17 @@
+.letter-cell {
+  width: 100px;
+  height: 100px;
+  border: black solid 1px;
+  border-radius: 5px;
+}
+
+.keyboard {
+  width: 100px;
+  height: 100px;
+  background-color: beige;
+}
+
+.letter {
+  font-size: 50px;
+  font-weight: bold;
+}
